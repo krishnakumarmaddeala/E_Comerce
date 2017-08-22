@@ -1,11 +1,11 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
   <modelVersion>4.0.0</modelVersion>
-  <groupId>Online_Classes</groupId>
-  <artifactId>onlineclasses</artifactId>
+  <groupId>TrainingProject</groupId>
+  <artifactId>TrainingProject</artifactId>
   <packaging>war</packaging>
   <version>0.0.1-SNAPSHOT</version>
-  <name>onlineclasses Maven Webapp</name>
+  <name>TrainingProject Maven Webapp</name>
   <url>http://maven.apache.org</url>
   <dependencies>
     <dependency>
@@ -21,6 +21,6 @@
     </dependency>
   </dependencies>
   <build>
-    <finalName>onlineclasses</finalName>
+    <finalName>TrainingProject</finalName>
   </build>
 </project>
